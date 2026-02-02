@@ -23,13 +23,6 @@ Number of boxes shipped
 
 Total sale amount (USD)
 
-Assumes:
-
-Sales amounts are reported in USD and may include formatting symbols (e.g., $, commas)
-
-Each row represents an independent sales transaction
-
-Missing or malformed values are excluded from aggregate calculations
 
 Approach
 
